@@ -1,0 +1,2003 @@
+[INFO] Error stacktraces are turned on.
+[INFO] Scanning for projects...
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.jsoup:1.10.1 @ C:\GSOC Research\Github\toif\3rdParty\org.jsoup\pom.xml
+[INFO] Adding repository http://vorsecurity.com/eclipse/ossindex/builder/kepler
+[INFO] Fetching p2.index from http://download.eclipse.org/releases/luna/ (0B at 0B/s)
+[INFO] Adding repository http://download.eclipse.org/releases/luna
+[INFO] Fetching p2.index from http://download.eclipse.org/releases/luna/201406250900/ (0B at 0B/s)
+[INFO] Fetching p2.index from http://download.eclipse.org/releases/luna/201409261001/ (0B at 0B/s)
+[INFO] Fetching p2.index from http://download.eclipse.org/releases/luna/201501121000/ (0B at 0B/s)
+[INFO] Fetching p2.index from http://download.eclipse.org/releases/luna/201502271000/ (0B at 0B/s)
+[INFO] Fetching p2.index from http://download.eclipse.org/tools/orbit/downloads/drops/R20150124073747/repository/ (0B at 0B/s)
+[INFO] Adding repository http://download.eclipse.org/tools/orbit/downloads/drops/R20150124073747/repository
+[WARNING] De-selecting bundles in a target definition file is not supported. See http://wiki.eclipse.org/Tycho_Messages_Explained#Target_File_Include_Bundles for alternatives.
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.jsoup:1.10.1 @ C:\GSOC Research\Github\toif\3rdParty\org.jsoup\pom.xml
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.jsoup:1.10.1 @ C:\GSOC Research\Github\toif\3rdParty\org.jsoup\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.libs.libsjava.plugins:com.google.guava:14.0.1 @ C:\GSOC Research\Github\toif\3rdParty\com.google.guava\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.libs.libsjava.plugins:com.google.guava:14.0.1 @ C:\GSOC Research\Github\toif\3rdParty\com.google.guava\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.google.guava/14.0.1
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.libs.libsjava.plugins:com.google.guava:14.0.1 @ C:\GSOC Research\Github\toif\3rdParty\com.google.guava\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.libs.libsjava.plugins:com.lexicalscope.jewelcli:0.8.5 @ C:\GSOC Research\Github\toif\3rdParty\com.lexicalscope.jewelcli\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.libs.libsjava.plugins:com.lexicalscope.jewelcli:0.8.5 @ C:\GSOC Research\Github\toif\3rdParty\com.lexicalscope.jewelcli\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.libs.libsjava.plugins:com.lexicalscope.jewelcli:0.8.5 @ C:\GSOC Research\Github\toif\3rdParty\com.lexicalscope.jewelcli\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.libs.libsjava.plugins:javax.xml:1.4.0-SNAPSHOT @ C:\GSOC Research\Github\toif\3rdParty\javax.xml\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.libs.libsjava.plugins:javax.xml:1.4.0-SNAPSHOT @ C:\GSOC Research\Github\toif\3rdParty\javax.xml\pom.xml
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.libs.libsjava.plugins:javax.xml:1.4.0-SNAPSHOT @ C:\GSOC Research\Github\toif\3rdParty\javax.xml\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.libs.libsjava.plugins:net.sf.trove4j:3.0.3 @ C:\GSOC Research\Github\toif\3rdParty\net.sf.trove4j\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.libs.libsjava.plugins:net.sf.trove4j:3.0.3 @ C:\GSOC Research\Github\toif\3rdParty\net.sf.trove4j\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   net.sf.trove4j/3.0.3
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.libs.libsjava.plugins:net.sf.trove4j:3.0.3 @ C:\GSOC Research\Github\toif\3rdParty\net.sf.trove4j\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.apache.commons.csv:1.2.0 @ C:\GSOC Research\Github\toif\3rdParty\org.apache.commons.csv\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.apache.commons.csv:1.2.0 @ C:\GSOC Research\Github\toif\3rdParty\org.apache.commons.csv\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   org.apache.commons.csv/1.2.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.apache.commons.csv:1.2.0 @ C:\GSOC Research\Github\toif\3rdParty\org.apache.commons.csv\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.apache.commons.io:2.4.0 @ C:\GSOC Research\Github\toif\3rdParty\org.apache.commons.io\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.apache.commons.io:2.4.0 @ C:\GSOC Research\Github\toif\3rdParty\org.apache.commons.io\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   org.apache.commons.io/2.4.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.apache.commons.io:2.4.0 @ C:\GSOC Research\Github\toif\3rdParty\org.apache.commons.io\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.apache.commons.lang3:3.1.0 @ C:\GSOC Research\Github\toif\3rdParty\org.apache.commons.lang3\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.apache.commons.lang3:3.1.0 @ C:\GSOC Research\Github\toif\3rdParty\org.apache.commons.lang3\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   org.apache.commons.lang3/3.1.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.apache.commons.lang3:3.1.0 @ C:\GSOC Research\Github\toif\3rdParty\org.apache.commons.lang3\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.apache.xerces:2.11.0-SNAPSHOT @ C:\GSOC Research\Github\toif\3rdParty\org.apache.xerces\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.apache.xerces:2.11.0-SNAPSHOT @ C:\GSOC Research\Github\toif\3rdParty\org.apache.xerces\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   org.apache.xml.serializer/2.7.1
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.apache.xerces:2.11.0-SNAPSHOT @ C:\GSOC Research\Github\toif\3rdParty\org.apache.xerces\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.apache.xml.resolver:1.2.0 @ C:\GSOC Research\Github\toif\3rdParty\org.apache.xml.resolver\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.apache.xml.resolver:1.2.0 @ C:\GSOC Research\Github\toif\3rdParty\org.apache.xml.resolver\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   org.apache.xml.resolver/1.2.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.apache.xml.resolver:1.2.0 @ C:\GSOC Research\Github\toif\3rdParty\org.apache.xml.resolver\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.apache.xml.serializer:2.7.1 @ C:\GSOC Research\Github\toif\3rdParty\org.apache.xml.serializer\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.apache.xml.serializer:2.7.1 @ C:\GSOC Research\Github\toif\3rdParty\org.apache.xml.serializer\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   org.apache.xml.serializer/2.7.1
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.apache.xml.serializer:2.7.1 @ C:\GSOC Research\Github\toif\3rdParty\org.apache.xml.serializer\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.openrdf.sesame:2.4.2 @ C:\GSOC Research\Github\toif\3rdParty\org.openrdf.sesame\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.openrdf.sesame:2.4.2 @ C:\GSOC Research\Github\toif\3rdParty\org.openrdf.sesame\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   org.openrdf.sesame/2.4.2
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.openrdf.sesame:2.4.2 @ C:\GSOC Research\Github\toif\3rdParty\org.openrdf.sesame\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.mockito.core:1.9.5 @ C:\GSOC Research\Github\toif\3rdParty\org.mockito.core\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.mockito.core:1.9.5 @ C:\GSOC Research\Github\toif\3rdParty\org.mockito.core\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   org.mockito.core/1.9.5
+[WARNING]   org.objenesis/1.0.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.mockito.core:1.9.5 @ C:\GSOC Research\Github\toif\3rdParty\org.mockito.core\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.objenesis:1.0.0 @ C:\GSOC Research\Github\toif\3rdParty\org.objenesis\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.objenesis:1.0.0 @ C:\GSOC Research\Github\toif\3rdParty\org.objenesis\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   org.objenesis/1.0.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.libs.libsjava.plugins:org.objenesis:1.0.0 @ C:\GSOC Research\Github\toif\3rdParty\org.objenesis\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif:com.kdmanalytics.toif.log4j:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.log4j\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif:com.kdmanalytics.toif.log4j:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.log4j\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.log4j/2.3.1
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif:com.kdmanalytics.toif.log4j:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.log4j\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.kdm.wb.plugins:com.kdmanalytics.toif.ui.common:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.ui.common\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.kdm.wb.plugins:com.kdmanalytics.toif.ui.common:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.ui.common\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   org.apache.commons.csv/1.2.0
+[WARNING]   com.kdmanalytics.toif.ui.common/2.3.1
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.kdm.wb.plugins:com.kdmanalytics.toif.ui.common:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.ui.common\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.common:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.common\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.common:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.common\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.common/2.3.1
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.common:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.common\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.kdm.wb.plugins:com.kdmanalytics.toif.ccr:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.ccr\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.kdm.wb.plugins:com.kdmanalytics.toif.ccr:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.ccr\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.ccr/2.3.1
+[WARNING]   org.apache.commons.csv/1.2.0
+[WARNING]   com.kdmanalytics.toif.ui.common/2.3.1
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.kdm.wb.plugins:com.kdmanalytics.toif.ccr:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.ccr\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.framework:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.framework\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.framework:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.framework\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.common/2.3.1
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   com.kdmanalytics.toif.framework/2.3.1
+[WARNING]   org.apache.xml.serializer/2.7.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.framework:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.framework\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.kdm.wb.plugins:com.kdmanalytics.toif.ui:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.ui\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.kdm.wb.plugins:com.kdmanalytics.toif.ui:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.ui\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.ccr/2.3.1
+[WARNING]   com.kdmanalytics.toif.ui/2.3.1
+[WARNING]   org.apache.commons.csv/1.2.0
+[WARNING]   com.kdmanalytics.toif.ui.common/2.3.1
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.kdm.wb.plugins:com.kdmanalytics.toif.ui:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.ui\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.assimilator:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.assimilator\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.assimilator:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.assimilator\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.common/2.3.1
+[WARNING]   com.kdmanalytics.toif.assimilator/2.3.1
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   net.sf.trove4j/3.0.3
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   org.openrdf.sesame/2.4.2
+[WARNING]   org.apache.xml.serializer/2.7.1
+[WARNING]   com.google.guava/14.0.1
+[WARNING]   com.kdmanalytics.kdm.repositoryMerger/2.3.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[WARNING]   org.apache.commons.io/2.4.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.assimilator:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.assimilator\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.facade:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.facade\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.facade:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.facade\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.common/2.3.1
+[WARNING]   com.kdmanalytics.toif.facade/2.3.1
+[WARNING]   com.kdmanalytics.toif.assimilator/2.3.1
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   net.sf.trove4j/3.0.3
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   com.kdmanalytics.toif.framework/2.3.1
+[WARNING]   org.openrdf.sesame/2.4.2
+[WARNING]   org.apache.xml.serializer/2.7.1
+[WARNING]   com.google.guava/14.0.1
+[WARNING]   com.kdmanalytics.kdm.repositoryMerger/2.3.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[WARNING]   org.apache.commons.io/2.4.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.facade:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.facade\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.splint:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.splint\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.splint:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.splint\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.common/2.3.1
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   com.kdmanalytics.toif.framework/2.3.1
+[WARNING]   org.apache.xml.serializer/2.7.1
+[WARNING]   com.kdmanalytics.toif.splint/2.3.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.splint:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.splint\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.cppcheck:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.cppcheck\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.cppcheck:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.cppcheck\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.common/2.3.1
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   com.kdmanalytics.toif.cppcheck/2.3.1
+[WARNING]   com.kdmanalytics.toif.framework/2.3.1
+[WARNING]   org.apache.xml.serializer/2.7.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.cppcheck:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.cppcheck\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.rats:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.rats\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.rats:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.rats\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.common/2.3.1
+[WARNING]   com.kdmanalytics.toif.rats/2.3.1
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   com.kdmanalytics.toif.framework/2.3.1
+[WARNING]   org.apache.xml.serializer/2.7.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.rats:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.rats\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.jlint:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.jlint\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.jlint:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.jlint\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.common/2.3.1
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   com.kdmanalytics.toif.framework/2.3.1
+[WARNING]   com.kdmanalytics.toif.jlint/2.3.1
+[WARNING]   org.apache.xml.serializer/2.7.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.jlint:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.jlint\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.findbugs:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.findbugs\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.findbugs:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.findbugs\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.common/2.3.1
+[WARNING]   com.kdmanalytics.toif.findbugs/2.3.1
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   com.kdmanalytics.toif.framework/2.3.1
+[WARNING]   org.apache.xml.serializer/2.7.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[WARNING]   org.apache.commons.io/2.4.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.findbugs:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.findbugs\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.sonarqube:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.sonarqube\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.sonarqube:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.sonarqube\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.common/2.3.1
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   com.kdmanalytics.toif.framework/2.3.1
+[WARNING]   org.apache.xml.serializer/2.7.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.sonarqube:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.sonarqube\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.importer:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.importer\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.importer:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.importer\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.ccr/2.3.1
+[WARNING]   com.kdmanalytics.toif.ui/2.3.1
+[WARNING]   org.apache.commons.csv/1.2.0
+[WARNING]   org.openrdf.sesame/2.4.2
+[WARNING]   org.apache.commons.lang3/3.1.0
+[WARNING]   org.apache.commons.io/2.4.0
+[WARNING]   com.kdmanalytics.toif.ui.common/2.3.1
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.importer:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.importer\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.cmd:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.cmd\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.cmd:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.cmd\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.common/2.3.1
+[WARNING]   com.kdmanalytics.toif.facade/2.3.1
+[WARNING]   com.kdmanalytics.toif.assimilator/2.3.1
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   net.sf.trove4j/3.0.3
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   com.kdmanalytics.toif.framework/2.3.1
+[WARNING]   org.openrdf.sesame/2.4.2
+[WARNING]   org.apache.xml.serializer/2.7.1
+[WARNING]   com.google.guava/14.0.1
+[WARNING]   com.kdmanalytics.kdm.repositoryMerger/2.3.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[WARNING]   org.apache.commons.io/2.4.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.cmd:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.cmd\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.kdm.repositoryMerger:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.kdm.repositoryMerger\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.kdm.repositoryMerger:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.kdm.repositoryMerger\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   net.sf.trove4j/3.0.3
+[WARNING]   org.openrdf.sesame/2.4.2
+[WARNING]   com.google.guava/14.0.1
+[WARNING]   com.kdmanalytics.kdm.repositoryMerger/2.3.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.kdm.repositoryMerger:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.kdm.repositoryMerger\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.convert:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.convert\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.convert:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.convert\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   org.openrdf.sesame/2.4.2
+[WARNING]   com.google.guava/14.0.1
+[WARNING]   org.apache.commons.io/2.4.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.convert:2.3.1 @ C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.convert\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.tests:com.kdmanalytics.toif.assimilator.test:2.3.1 @ C:\GSOC Research\Github\toif\tests\com.kdmanalytics.toif.assimilator.test\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.tests:com.kdmanalytics.toif.assimilator.test:2.3.1 @ C:\GSOC Research\Github\toif\tests\com.kdmanalytics.toif.assimilator.test\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.common/2.3.1
+[WARNING]   com.kdmanalytics.toif.assimilator/2.3.1
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   net.sf.trove4j/3.0.3
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   org.openrdf.sesame/2.4.2
+[WARNING]   com.kdmanalytics.toif.log4j/2.3.1
+[WARNING]   org.apache.xml.serializer/2.7.1
+[WARNING]   org.mockito.core/1.9.5
+[WARNING]   com.google.guava/14.0.1
+[WARNING]   com.kdmanalytics.kdm.repositoryMerger/2.3.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[WARNING]   org.objenesis/1.0.0
+[WARNING]   org.apache.commons.io/2.4.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.tests:com.kdmanalytics.toif.assimilator.test:2.3.1 @ C:\GSOC Research\Github\toif\tests\com.kdmanalytics.toif.assimilator.test\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.complete.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.complete.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.complete.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.complete.feature\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.common/2.3.1
+[WARNING]   com.kdmanalytics.toif.ccr/2.3.1
+[WARNING]   com.kdmanalytics.toif.findbugs/2.3.1
+[WARNING]   com.kdmanalytics.toif.rats/2.3.1
+[WARNING]   com.kdmanalytics.toif.assimilator/2.3.1
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   net.sf.trove4j/3.0.3
+[WARNING]   com.kdmanalytics.toif.ui/2.3.1
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   com.kdmanalytics.toif.cppcheck/2.3.1
+[WARNING]   org.apache.commons.csv/1.2.0
+[WARNING]   com.kdmanalytics.toif.framework/2.3.1
+[WARNING]   org.openrdf.sesame/2.4.2
+[WARNING]   com.kdmanalytics.toif.jlint/2.3.1
+[WARNING]   org.apache.xml.serializer/2.7.1
+[WARNING]   com.google.guava/14.0.1
+[WARNING]   com.kdmanalytics.toif.splint/2.3.1
+[WARNING]   com.kdmanalytics.kdm.repositoryMerger/2.3.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[WARNING]   org.apache.commons.io/2.4.0
+[WARNING]   com.kdmanalytics.toif.ui.common/2.3.1
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.complete.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.complete.feature\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.core.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.core.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.core.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.core.feature\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.common/2.3.1
+[WARNING]   com.kdmanalytics.toif.findbugs/2.3.1
+[WARNING]   com.kdmanalytics.toif.rats/2.3.1
+[WARNING]   com.kdmanalytics.toif.assimilator/2.3.1
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   net.sf.trove4j/3.0.3
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   com.kdmanalytics.toif.cppcheck/2.3.1
+[WARNING]   com.kdmanalytics.toif.framework/2.3.1
+[WARNING]   org.openrdf.sesame/2.4.2
+[WARNING]   com.kdmanalytics.toif.jlint/2.3.1
+[WARNING]   com.kdmanalytics.toif.log4j/2.3.1
+[WARNING]   org.apache.xml.serializer/2.7.1
+[WARNING]   com.google.guava/14.0.1
+[WARNING]   com.kdmanalytics.toif.splint/2.3.1
+[WARNING]   com.kdmanalytics.kdm.repositoryMerger/2.3.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[WARNING]   org.apache.commons.io/2.4.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.core.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.core.feature\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.3rdparty.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.3rdparty.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.3rdparty.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.3rdparty.feature\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   net.sf.trove4j/3.0.3
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   org.apache.commons.csv/1.2.0
+[WARNING]   org.openrdf.sesame/2.4.2
+[WARNING]   org.apache.xml.serializer/2.7.1
+[WARNING]   com.google.guava/14.0.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[WARNING]   org.apache.commons.io/2.4.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.3rdparty.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.3rdparty.feature\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.importer.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.importer.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.importer.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.importer.feature\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.ccr/2.3.1
+[WARNING]   com.kdmanalytics.toif.ui/2.3.1
+[WARNING]   org.apache.commons.csv/1.2.0
+[WARNING]   org.openrdf.sesame/2.4.2
+[WARNING]   org.apache.commons.lang3/3.1.0
+[WARNING]   org.apache.commons.io/2.4.0
+[WARNING]   com.kdmanalytics.toif.ui.common/2.3.1
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.importer.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.importer.feature\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.report.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.report.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.report.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.report.feature\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.ccr/2.3.1
+[WARNING]   com.kdmanalytics.toif.ui/2.3.1
+[WARNING]   org.apache.commons.csv/1.2.0
+[WARNING]   org.openrdf.sesame/2.4.2
+[WARNING]   com.google.guava/14.0.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[WARNING]   org.apache.commons.io/2.4.0
+[WARNING]   com.kdmanalytics.toif.ui.common/2.3.1
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.report.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.report.feature\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.cmd.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.cmd.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.cmd.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.cmd.feature\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.common/2.3.1
+[WARNING]   com.kdmanalytics.toif.facade/2.3.1
+[WARNING]   com.kdmanalytics.toif.assimilator/2.3.1
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   net.sf.trove4j/3.0.3
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   com.kdmanalytics.toif.framework/2.3.1
+[WARNING]   org.openrdf.sesame/2.4.2
+[WARNING]   org.apache.xml.serializer/2.7.1
+[WARNING]   com.google.guava/14.0.1
+[WARNING]   com.kdmanalytics.kdm.repositoryMerger/2.3.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[WARNING]   org.apache.commons.io/2.4.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.cmd.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.cmd.feature\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.feature\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.common/2.3.1
+[WARNING]   com.kdmanalytics.toif.ccr/2.3.1
+[WARNING]   com.kdmanalytics.toif.findbugs/2.3.1
+[WARNING]   com.kdmanalytics.toif.rats/2.3.1
+[WARNING]   com.kdmanalytics.toif.assimilator/2.3.1
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   net.sf.trove4j/3.0.3
+[WARNING]   com.kdmanalytics.toif.ui/2.3.1
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   com.kdmanalytics.toif.cppcheck/2.3.1
+[WARNING]   org.apache.commons.csv/1.2.0
+[WARNING]   com.kdmanalytics.toif.framework/2.3.1
+[WARNING]   org.openrdf.sesame/2.4.2
+[WARNING]   com.kdmanalytics.toif.jlint/2.3.1
+[WARNING]   com.kdmanalytics.toif.log4j/2.3.1
+[WARNING]   org.apache.xml.serializer/2.7.1
+[WARNING]   com.google.guava/14.0.1
+[WARNING]   com.kdmanalytics.toif.splint/2.3.1
+[WARNING]   com.kdmanalytics.kdm.repositoryMerger/2.3.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[WARNING]   org.apache.commons.io/2.4.0
+[WARNING]   com.kdmanalytics.toif.ui.common/2.3.1
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.feature\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.convert.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.convert.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.convert.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.convert.feature\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   org.openrdf.sesame/2.4.2
+[WARNING]   com.google.guava/14.0.1
+[WARNING]   org.apache.commons.io/2.4.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.convert.feature:2.3.1 @ C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.convert.feature\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.sites:com.kdmanalytics.toif.rcp:2.3.1 @ C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.product\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.sites:com.kdmanalytics.toif.rcp:2.3.1 @ C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.product\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.common/2.3.1
+[WARNING]   com.kdmanalytics.toif.findbugs/2.3.1
+[WARNING]   com.kdmanalytics.toif.rats/2.3.1
+[WARNING]   com.kdmanalytics.toif.facade/2.3.1
+[WARNING]   com.kdmanalytics.toif.assimilator/2.3.1
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   net.sf.trove4j/3.0.3
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   com.kdmanalytics.toif.cppcheck/2.3.1
+[WARNING]   org.apache.commons.csv/1.2.0
+[WARNING]   com.kdmanalytics.toif.framework/2.3.1
+[WARNING]   org.openrdf.sesame/2.4.2
+[WARNING]   com.kdmanalytics.toif.jlint/2.3.1
+[WARNING]   com.kdmanalytics.toif.log4j/2.3.1
+[WARNING]   org.apache.xml.serializer/2.7.1
+[WARNING]   com.google.guava/14.0.1
+[WARNING]   com.kdmanalytics.toif.splint/2.3.1
+[WARNING]   com.kdmanalytics.kdm.repositoryMerger/2.3.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[WARNING]   org.apache.commons.io/2.4.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.sites:com.kdmanalytics.toif.rcp:2.3.1 @ C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.product\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.sites:com.kdmanalytics.toif.convert.product:2.3.1 @ C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.convert.product\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.sites:com.kdmanalytics.toif.convert.product:2.3.1 @ C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.convert.product\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.common/2.3.1
+[WARNING]   com.kdmanalytics.toif.findbugs/2.3.1
+[WARNING]   com.kdmanalytics.toif.rats/2.3.1
+[WARNING]   com.kdmanalytics.toif.assimilator/2.3.1
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   net.sf.trove4j/3.0.3
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   com.kdmanalytics.toif.cppcheck/2.3.1
+[WARNING]   org.apache.commons.csv/1.2.0
+[WARNING]   com.kdmanalytics.toif.framework/2.3.1
+[WARNING]   org.openrdf.sesame/2.4.2
+[WARNING]   com.kdmanalytics.toif.jlint/2.3.1
+[WARNING]   com.kdmanalytics.toif.log4j/2.3.1
+[WARNING]   org.apache.xml.serializer/2.7.1
+[WARNING]   com.google.guava/14.0.1
+[WARNING]   com.kdmanalytics.toif.splint/2.3.1
+[WARNING]   com.kdmanalytics.kdm.repositoryMerger/2.3.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[WARNING]   org.apache.commons.io/2.4.0
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.sites:com.kdmanalytics.toif.convert.product:2.3.1 @ C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.convert.product\pom.xml
+[INFO] Computing target platform for MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.p2:2.3.1 @ C:\GSOC Research\Github\toif\sites\com.kdmanalytics.toif.p2\pom.xml
+[INFO] Resolving dependencies of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.p2:2.3.1 @ C:\GSOC Research\Github\toif\sites\com.kdmanalytics.toif.p2\pom.xml
+[WARNING] The following locally built units have been used to resolve project dependencies:
+[WARNING]   com.kdmanalytics.toif.common/2.3.1
+[WARNING]   com.kdmanalytics.toif.ccr/2.3.1
+[WARNING]   com.kdmanalytics.toif.findbugs/2.3.1
+[WARNING]   com.kdmanalytics.toif.rats/2.3.1
+[WARNING]   com.kdmanalytics.toif.assimilator/2.3.1
+[WARNING]   com.lexicalscope.jewelcli/0.8.5
+[WARNING]   net.sf.trove4j/3.0.3
+[WARNING]   com.kdmanalytics.toif.ui/2.3.1
+[WARNING]   org.apache.xml.resolver/1.2.0
+[WARNING]   com.kdmanalytics.toif.cppcheck/2.3.1
+[WARNING]   org.apache.commons.csv/1.2.0
+[WARNING]   com.kdmanalytics.toif.framework/2.3.1
+[WARNING]   org.openrdf.sesame/2.4.2
+[WARNING]   com.kdmanalytics.toif.jlint/2.3.1
+[WARNING]   org.apache.xml.serializer/2.7.1
+[WARNING]   com.google.guava/14.0.1
+[WARNING]   com.kdmanalytics.toif.splint/2.3.1
+[WARNING]   com.kdmanalytics.kdm.repositoryMerger/2.3.1
+[WARNING]   org.apache.commons.lang3/3.1.0
+[WARNING]   org.apache.commons.io/2.4.0
+[WARNING]   com.kdmanalytics.toif.ui.common/2.3.1
+[INFO] Resolving class path of MavenProject: com.kdmanalytics.toif.compile:com.kdmanalytics.toif.p2:2.3.1 @ C:\GSOC Research\Github\toif\sites\com.kdmanalytics.toif.p2\pom.xml
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] Open TOIF (Tool Output Integration Framework)
+[INFO] Open TOIF 3rd Party Module
+[INFO] Jsoup  Library
+[INFO] Google Guava Library
+[INFO] Lexical Scope JewelCLI Library
+[INFO] JAXP XML
+[INFO] Trove4J
+[INFO] Apache Commons IO
+[INFO] Apache Commons IO
+[INFO] Apache Commons Lang3 Library
+[INFO] Apache Xerces-J Resolver
+[INFO] Apache Xerces-J Serilizer
+[INFO] Apache Xerces-J
+[INFO] OpenRDF Sesame Library
+[INFO] Objenesis
+[INFO] Mockito Core Library
+[INFO] Open TOIF Plugins Module
+[INFO] Open TOIF Log4J Configuration
+[INFO] target
+[INFO] Open TOIF Common UI
+[INFO] Open TOIF API
+[INFO] Open TOIF Ccr
+[INFO] Open TOIF Adaptor Framework
+[INFO] Open TOIF UI
+[INFO] Open TOIF KDM Repository Merger
+[INFO] Open TOIF Assimilator
+[INFO] Open TOIF Facade
+[INFO] Open TOIF Adaptor - Splint
+[INFO] Open TOIF Adaptor - Cppcheck
+[INFO] Open TOIF Adaptor - Rats
+[INFO] Open TOIF Adaptor - Jlint
+[INFO] Open TOIF Adaptor - Findbugs
+[INFO] Open TOIF Adaptor - SonarQube
+[INFO] Open TOIF KDM File Importer
+[INFO] Open TOIF RCP App
+[INFO] Open TOIF RCP App
+[INFO] Open TOIF Tests Module
+[INFO] TOIF Assimilator Tests
+[INFO] Open TOIF Features Module
+[INFO] Open TOIF Feature
+[INFO] Open TOIF Core Feature
+[INFO] Open TOIF 3rd Party Feature
+[INFO] Open TOIF Importer Feature
+[INFO] Open TOIF Report Feature
+[INFO] Open TOIF CLI Feature
+[INFO] Open TOIF Feature
+[INFO] Open TOIF CLI Feature
+[INFO] Open TOIF Sites Module
+[INFO] Open TOIF CLI Product
+[INFO] Open TOIF Convert CLI Product
+[INFO] Open TOIF Sites Module
+[INFO] Open TOIF P2 Repository
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF (Tool Output Integration Framework) 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF 3rd Party Module 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Jsoup  Library 1.10.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ org.jsoup ---
+[INFO] The project's OSGi version is 1.10.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ org.jsoup ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ org.jsoup ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.jsoup ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.jsoup\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ org.jsoup ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.jsoup ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.jsoup\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ org.jsoup ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ org.jsoup ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\3rdParty\org.jsoup\target\org.jsoup-1.10.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ org.jsoup ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Google Guava Library 14.0.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.google.guava ---
+[INFO] The project's OSGi version is 14.0.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.google.guava ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.google.guava ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.google.guava ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\com.google.guava\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.google.guava ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.google.guava ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\com.google.guava\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.google.guava ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.google.guava ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\3rdParty\com.google.guava\target\com.google.guava-14.0.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.google.guava ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Lexical Scope JewelCLI Library 0.8.5
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.lexicalscope.jewelcli ---
+[INFO] The project's OSGi version is 0.8.5
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.lexicalscope.jewelcli ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.lexicalscope.jewelcli ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.lexicalscope.jewelcli ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\com.lexicalscope.jewelcli\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.lexicalscope.jewelcli ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.lexicalscope.jewelcli ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\com.lexicalscope.jewelcli\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.lexicalscope.jewelcli ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.lexicalscope.jewelcli ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\3rdParty\com.lexicalscope.jewelcli\target\com.lexicalscope.jewelcli-0.8.5.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.lexicalscope.jewelcli ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building JAXP XML 1.4.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ javax.xml ---
+[INFO] The project's OSGi version is 1.4.0.201612070918
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ javax.xml ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ javax.xml ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ javax.xml ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\javax.xml\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ javax.xml ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ javax.xml ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\javax.xml\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ javax.xml ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ javax.xml ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\3rdParty\javax.xml\target\javax.xml-1.4.0-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ javax.xml ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Trove4J 3.0.3
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ net.sf.trove4j ---
+[INFO] The project's OSGi version is 3.0.3
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ net.sf.trove4j ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ net.sf.trove4j ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ net.sf.trove4j ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\net.sf.trove4j\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ net.sf.trove4j ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ net.sf.trove4j ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\net.sf.trove4j\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ net.sf.trove4j ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ net.sf.trove4j ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\3rdParty\net.sf.trove4j\target\net.sf.trove4j-3.0.3.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ net.sf.trove4j ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Apache Commons IO 1.2.0
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ org.apache.commons.csv ---
+[INFO] The project's OSGi version is 1.2.0
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ org.apache.commons.csv ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ org.apache.commons.csv ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.apache.commons.csv ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.apache.commons.csv\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ org.apache.commons.csv ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.apache.commons.csv ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.apache.commons.csv\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ org.apache.commons.csv ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ org.apache.commons.csv ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\3rdParty\org.apache.commons.csv\target\org.apache.commons.csv-1.2.0.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ org.apache.commons.csv ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Apache Commons IO 2.4.0
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ org.apache.commons.io ---
+[INFO] The project's OSGi version is 2.4.0
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ org.apache.commons.io ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ org.apache.commons.io ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.apache.commons.io ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.apache.commons.io\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ org.apache.commons.io ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.apache.commons.io ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.apache.commons.io\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ org.apache.commons.io ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ org.apache.commons.io ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\3rdParty\org.apache.commons.io\target\org.apache.commons.io-2.4.0.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ org.apache.commons.io ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Apache Commons Lang3 Library 3.1.0
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ org.apache.commons.lang3 ---
+[INFO] The project's OSGi version is 3.1.0
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ org.apache.commons.lang3 ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ org.apache.commons.lang3 ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.apache.commons.lang3 ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.apache.commons.lang3\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ org.apache.commons.lang3 ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.apache.commons.lang3 ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.apache.commons.lang3\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ org.apache.commons.lang3 ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ org.apache.commons.lang3 ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\3rdParty\org.apache.commons.lang3\target\org.apache.commons.lang3-3.1.0.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ org.apache.commons.lang3 ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Apache Xerces-J Resolver 1.2.0
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ org.apache.xml.resolver ---
+[INFO] The project's OSGi version is 1.2.0
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ org.apache.xml.resolver ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ org.apache.xml.resolver ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.apache.xml.resolver ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.apache.xml.resolver\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ org.apache.xml.resolver ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.apache.xml.resolver ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.apache.xml.resolver\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ org.apache.xml.resolver ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ org.apache.xml.resolver ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\3rdParty\org.apache.xml.resolver\target\org.apache.xml.resolver-1.2.0.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ org.apache.xml.resolver ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Apache Xerces-J Serilizer 2.7.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ org.apache.xml.serializer ---
+[INFO] The project's OSGi version is 2.7.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ org.apache.xml.serializer ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ org.apache.xml.serializer ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.apache.xml.serializer ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.apache.xml.serializer\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ org.apache.xml.serializer ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.apache.xml.serializer ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.apache.xml.serializer\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ org.apache.xml.serializer ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ org.apache.xml.serializer ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\3rdParty\org.apache.xml.serializer\target\org.apache.xml.serializer-2.7.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ org.apache.xml.serializer ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Apache Xerces-J 2.11.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ org.apache.xerces ---
+[INFO] The project's OSGi version is 2.11.0.201612070918
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ org.apache.xerces ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ org.apache.xerces ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.apache.xerces ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.apache.xerces\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ org.apache.xerces ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.apache.xerces ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.apache.xerces\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ org.apache.xerces ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ org.apache.xerces ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\3rdParty\org.apache.xerces\target\org.apache.xerces-2.11.0-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ org.apache.xerces ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building OpenRDF Sesame Library 2.4.2
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ org.openrdf.sesame ---
+[INFO] The project's OSGi version is 2.4.2
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ org.openrdf.sesame ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ org.openrdf.sesame ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.openrdf.sesame ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.openrdf.sesame\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ org.openrdf.sesame ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.openrdf.sesame ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.openrdf.sesame\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ org.openrdf.sesame ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ org.openrdf.sesame ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\3rdParty\org.openrdf.sesame\target\org.openrdf.sesame-2.4.2.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ org.openrdf.sesame ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Objenesis 1.0.0
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ org.objenesis ---
+[INFO] The project's OSGi version is 1.0.0
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ org.objenesis ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ org.objenesis ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.objenesis ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.objenesis\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ org.objenesis ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.objenesis ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.objenesis\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ org.objenesis ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ org.objenesis ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\3rdParty\org.objenesis\target\org.objenesis-1.0.0.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ org.objenesis ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Mockito Core Library 1.9.5
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ org.mockito.core ---
+[INFO] The project's OSGi version is 1.9.5
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ org.mockito.core ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ org.mockito.core ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.mockito.core ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.mockito.core\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ org.mockito.core ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.mockito.core ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\3rdParty\org.mockito.core\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ org.mockito.core ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ org.mockito.core ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\3rdParty\org.mockito.core\target\org.mockito.core-1.9.5.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ org.mockito.core ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Plugins Module 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Log4J Configuration 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.kdmanalytics.toif.log4j ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.log4j ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.log4j ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.log4j ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.log4j\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.kdmanalytics.toif.log4j ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.kdmanalytics.toif.log4j ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.log4j\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.log4j ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.kdmanalytics.toif.log4j ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.log4j\target\com.kdmanalytics.toif.log4j-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.log4j ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building target 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- build-helper-maven-plugin:1.7:attach-artifact (attach-artifacts) @ target ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Common UI 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.kdmanalytics.toif.ui.common ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.ui.common ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.ui.common ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.ui.common ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.ui.common\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.kdmanalytics.toif.ui.common ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.kdmanalytics.toif.ui.common ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.ui.common\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.ui.common ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.kdmanalytics.toif.ui.common ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.ui.common\target\com.kdmanalytics.toif.ui.common-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.ui.common ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF API 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.kdmanalytics.toif.common ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.common ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.common ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.common ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.common\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.kdmanalytics.toif.common ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.kdmanalytics.toif.common ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.common\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.common ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.kdmanalytics.toif.common ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.common\target\com.kdmanalytics.toif.common-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.common ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Ccr 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.kdmanalytics.toif.ccr ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.ccr ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.ccr ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.ccr ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.ccr\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.kdmanalytics.toif.ccr ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.kdmanalytics.toif.ccr ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.ccr\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.ccr ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.kdmanalytics.toif.ccr ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.ccr\target\com.kdmanalytics.toif.ccr-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.ccr ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Adaptor Framework 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.kdmanalytics.toif.framework ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.framework ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.framework ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.framework ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.framework\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.kdmanalytics.toif.framework ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.kdmanalytics.toif.framework ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.framework\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.framework ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.kdmanalytics.toif.framework ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.framework\target\com.kdmanalytics.toif.framework-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.framework ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF UI 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.kdmanalytics.toif.ui ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.ui ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.ui ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.ui ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.ui\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.kdmanalytics.toif.ui ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.kdmanalytics.toif.ui ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.ui\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.ui ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.kdmanalytics.toif.ui ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.ui\target\com.kdmanalytics.toif.ui-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.ui ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF KDM Repository Merger 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.kdmanalytics.kdm.repositoryMerger ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.kdm.repositoryMerger ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.kdm.repositoryMerger ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.kdm.repositoryMerger ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.kdm.repositoryMerger\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.kdmanalytics.kdm.repositoryMerger ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.kdmanalytics.kdm.repositoryMerger ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.kdm.repositoryMerger\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.kdm.repositoryMerger ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.kdmanalytics.kdm.repositoryMerger ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.kdm.repositoryMerger\target\com.kdmanalytics.kdm.repositoryMerger-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.kdm.repositoryMerger ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Assimilator 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.kdmanalytics.toif.assimilator ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.assimilator ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.assimilator ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.assimilator ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.assimilator\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.kdmanalytics.toif.assimilator ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.kdmanalytics.toif.assimilator ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.assimilator\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.assimilator ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.kdmanalytics.toif.assimilator ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.assimilator\target\com.kdmanalytics.toif.assimilator-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.assimilator ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Facade 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.kdmanalytics.toif.facade ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.facade ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.facade ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.facade ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.facade\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.kdmanalytics.toif.facade ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.kdmanalytics.toif.facade ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.facade\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.facade ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.kdmanalytics.toif.facade ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.facade\target\com.kdmanalytics.toif.facade-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.facade ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Adaptor - Splint 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.kdmanalytics.toif.splint ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.splint ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.splint ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.splint ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.splint\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.kdmanalytics.toif.splint ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.kdmanalytics.toif.splint ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.splint\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.splint ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.kdmanalytics.toif.splint ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.splint\target\com.kdmanalytics.toif.splint-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.splint ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Adaptor - Cppcheck 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.kdmanalytics.toif.cppcheck ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.cppcheck ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.cppcheck ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.cppcheck ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.cppcheck\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.kdmanalytics.toif.cppcheck ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.kdmanalytics.toif.cppcheck ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.cppcheck\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.cppcheck ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.kdmanalytics.toif.cppcheck ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.cppcheck\target\com.kdmanalytics.toif.cppcheck-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.cppcheck ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Adaptor - Rats 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.kdmanalytics.toif.rats ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.rats ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.rats ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.rats ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.rats\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.kdmanalytics.toif.rats ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.kdmanalytics.toif.rats ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.rats\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.rats ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.kdmanalytics.toif.rats ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.rats\target\com.kdmanalytics.toif.rats-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.rats ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Adaptor - Jlint 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.kdmanalytics.toif.jlint ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.jlint ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.jlint ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.jlint ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.jlint\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.kdmanalytics.toif.jlint ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.kdmanalytics.toif.jlint ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.jlint\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.jlint ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.kdmanalytics.toif.jlint ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.jlint\target\com.kdmanalytics.toif.jlint-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.jlint ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Adaptor - Findbugs 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.kdmanalytics.toif.findbugs ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.findbugs ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.findbugs ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.findbugs ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.findbugs\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.kdmanalytics.toif.findbugs ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.kdmanalytics.toif.findbugs ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.findbugs\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.findbugs ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.kdmanalytics.toif.findbugs ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.findbugs\target\com.kdmanalytics.toif.findbugs-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.findbugs ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Adaptor - SonarQube 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.kdmanalytics.toif.sonarqube ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.sonarqube ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.sonarqube ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.sonarqube ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.sonarqube\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.kdmanalytics.toif.sonarqube ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.kdmanalytics.toif.sonarqube ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.sonarqube\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.sonarqube ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.kdmanalytics.toif.sonarqube ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.sonarqube\target\com.kdmanalytics.toif.sonarqube-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.sonarqube ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF KDM File Importer 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.kdmanalytics.toif.importer ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.importer ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.importer ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.importer ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.importer\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.kdmanalytics.toif.importer ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.kdmanalytics.toif.importer ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.importer\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.importer ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.kdmanalytics.toif.importer ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.importer\target\com.kdmanalytics.toif.importer-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.importer ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF RCP App 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.kdmanalytics.toif.cmd ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.cmd ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.cmd ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.cmd ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.cmd\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.kdmanalytics.toif.cmd ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.kdmanalytics.toif.cmd ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.cmd\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.cmd ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.kdmanalytics.toif.cmd ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.cmd\target\com.kdmanalytics.toif.cmd-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.cmd ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF RCP App 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.kdmanalytics.toif.convert ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.convert ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.convert ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.convert ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.convert\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.kdmanalytics.toif.convert ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.kdmanalytics.toif.convert ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.convert\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.convert ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.kdmanalytics.toif.convert ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\plugins\com.kdmanalytics.toif.convert\target\com.kdmanalytics.toif.convert-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.convert ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Tests Module 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building TOIF Assimilator Tests 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier (default-build-qualifier) @ com.kdmanalytics.toif.assimilator.test ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.assimilator.test ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.assimilator.test ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.assimilator.test ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\tests\com.kdmanalytics.toif.assimilator.test\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.24.0:compile (default-compile) @ com.kdmanalytics.toif.assimilator.test ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ com.kdmanalytics.toif.assimilator.test ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\tests\com.kdmanalytics.toif.assimilator.test\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.assimilator.test ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-plugin (default-package-plugin) @ com.kdmanalytics.toif.assimilator.test ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\tests\com.kdmanalytics.toif.assimilator.test\target\com.kdmanalytics.toif.assimilator.test-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.assimilator.test ---
+[INFO] 
+[INFO] --- tycho-surefire-plugin:0.24.0:test (default-test) @ com.kdmanalytics.toif.assimilator.test ---
+[INFO] Expected eclipse log file: C:\GSOC Research\Github\toif\tests\com.kdmanalytics.toif.assimilator.test\target\work\data\.metadata\.log
+[INFO] Command line:
+	[C:\Program Files\Java\jdk1.8.0_65\jre\bin\java.exe, -Dosgi.noShutdown=false, -Dosgi.os=win32, -Dosgi.ws=win32, -Dosgi.arch=x86_64, -Dosgi.clean=true, -jar, C:\Users\nikpa\.m2\repository\p2\osgi\bundle\org.eclipse.equinox.launcher\1.3.0.v20140415-2008\org.eclipse.equinox.launcher-1.3.0.v20140415-2008.jar, -data, C:\GSOC Research\Github\toif\tests\com.kdmanalytics.toif.assimilator.test\target\work\data, -install, C:\GSOC Research\Github\toif\tests\com.kdmanalytics.toif.assimilator.test\target\work, -configuration, C:\GSOC Research\Github\toif\tests\com.kdmanalytics.toif.assimilator.test\target\work\configuration, -application, org.eclipse.tycho.surefire.osgibooter.headlesstest, -testproperties, C:\GSOC Research\Github\toif\tests\com.kdmanalytics.toif.assimilator.test\target\surefire.properties]
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.kdmanalytics.toif.assimilator.AssimilatorTest
+[INFO ] testGetValidFileLocation being run...
+[INFO ] testMergeTkdm being run...
+Processing TKDM files: "resources\defs.tkdm"... 50%Processing TKDM files: "resources\function_pointer.tkdm"... 100%
+[INFO ] testGetToifMerger being run...
+[INFO ] testCreateRepository being run...
+[INFO ] testGetTkdmMerger being run...
+[INFO ] testLoad being run...
+[INFO ] testGetValidRepositoryLocationNullLocation being run...
+[INFO ] testGetFilesTkdm being run...
+[INFO ] testGetFilesToif being run...
+[INFO ] testGetValidRepositoryLocationCreatedRepository being run...
+[INFO ] testAssimilate being run...
+Running, this may take some time...
+Processing TKDM files: "resources\function_pointer.tkdm"... 100%
+Processing TOIF files: "resources\segment.c.toif.xml"... 100%
+
+
+Complete.
+[INFO ] testGetRepositoryLocationNoRepositoryLocation being run...
+[INFO ] testGetValidRepositoryLocationBadLocation being run...
+[INFO ] testGetValidRepositoryLocation being run...
+[INFO ] testGetRepositoryLocationNoRepositoryOption being run...
+Tests run: 15, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.247 sec - in com.kdmanalytics.toif.assimilator.AssimilatorTest
+testGetValidFileLocation(com.kdmanalytics.toif.assimilator.AssimilatorTest)  Time elapsed: 0.105 sec
+testMergeTkdm(com.kdmanalytics.toif.assimilator.AssimilatorTest)  Time elapsed: 0.652 sec
+testGetToifMerger(com.kdmanalytics.toif.assimilator.AssimilatorTest)  Time elapsed: 0.025 sec
+testCreateRepository(com.kdmanalytics.toif.assimilator.AssimilatorTest)  Time elapsed: 0.027 sec
+testGetTkdmMerger(com.kdmanalytics.toif.assimilator.AssimilatorTest)  Time elapsed: 0.1 sec
+testLoad(com.kdmanalytics.toif.assimilator.AssimilatorTest)  Time elapsed: 0.059 sec
+testGetValidRepositoryLocationNullLocation(com.kdmanalytics.toif.assimilator.AssimilatorTest)  Time elapsed: 0.008 sec
+testGetFilesTkdm(com.kdmanalytics.toif.assimilator.AssimilatorTest)  Time elapsed: 0.01 sec
+testGetFilesToif(com.kdmanalytics.toif.assimilator.AssimilatorTest)  Time elapsed: 0.017 sec
+testGetValidRepositoryLocationCreatedRepository(com.kdmanalytics.toif.assimilator.AssimilatorTest)  Time elapsed: 0.073 sec
+testAssimilate(com.kdmanalytics.toif.assimilator.AssimilatorTest)  Time elapsed: 5.799 sec
+testGetRepositoryLocationNoRepositoryLocation(com.kdmanalytics.toif.assimilator.AssimilatorTest)  Time elapsed: 0.128 sec
+testGetValidRepositoryLocationBadLocation(com.kdmanalytics.toif.assimilator.AssimilatorTest)  Time elapsed: 0.009 sec
+testGetValidRepositoryLocation(com.kdmanalytics.toif.assimilator.AssimilatorTest)  Time elapsed: 0.008 sec
+testGetRepositoryLocationNoRepositoryOption(com.kdmanalytics.toif.assimilator.AssimilatorTest)  Time elapsed: 0.007 sec
+Running com.kdmanalytics.toif.assimilator.CompareFileTest
+Running, this may take some time...
+
+Processing TOIF files: "resources\TOIF\FindBugs Adaptor\NamesConversion.class.toif.xml"... 50%
+Processing TOIF files: "resources\TOIF\JLint Adaptor\NamesConversion.class.toif.xml"... 100%
+
+Assimilating TOIF and KDM Locations... 3%Assimilating TOIF and KDM Locations... 7%Assimilating TOIF and KDM Locations... 11%Assimilating TOIF and KDM Locations... 14%Assimilating TOIF and KDM Locations... 18%Assimilating TOIF and KDM Locations... 22%Assimilating TOIF and KDM Locations... 25%Assimilating TOIF and KDM Locations... 29%Assimilating TOIF and KDM Locations... 33%Assimilating TOIF and KDM Locations... 37%Assimilating TOIF and KDM Locations... 40%Assimilating TOIF and KDM Locations... 44%Assimilating TOIF and KDM Locations... 48%Assimilating TOIF and KDM Locations... 51%Assimilating TOIF and KDM Locations... 55%Assimilating TOIF and KDM Locations... 59%Assimilating TOIF and KDM Locations... 62%Assimilating TOIF and KDM Locations... 66%Assimilating TOIF and KDM Locations... 70%Assimilating TOIF and KDM Locations... 74%Assimilating TOIF and KDM Locations... 77%Assimilating TOIF and KDM Locations... 81%Assimilating TOIF and KDM Locations... 85%Assimilating TOIF and KDM Locations... 88%Assimilating TOIF and KDM Locations... 92%Assimilating TOIF and KDM Locations... 96%Assimilating TOIF and KDM Locations... 100%
+Complete.
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.549 sec - in com.kdmanalytics.toif.assimilator.CompareFileTest
+compareFiles(com.kdmanalytics.toif.assimilator.CompareFileTest)  Time elapsed: 21.548 sec
+Running com.kdmanalytics.toif.assimilator.FilePathTreeTest
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.061 sec - in com.kdmanalytics.toif.assimilator.FilePathTreeTest
+testAddParentDirectory(com.kdmanalytics.toif.assimilator.FilePathTreeTest)  Time elapsed: 0.009 sec
+testGetFile(com.kdmanalytics.toif.assimilator.FilePathTreeTest)  Time elapsed: 0.005 sec
+getBestPath(com.kdmanalytics.toif.assimilator.FilePathTreeTest)  Time elapsed: 0.007 sec
+testNodeEqualsNullFail(com.kdmanalytics.toif.assimilator.FilePathTreeTest)  Time elapsed: 0.005 sec
+testNodeEqualsNullPass(com.kdmanalytics.toif.assimilator.FilePathTreeTest)  Time elapsed: 0.004 sec
+testFilePathTreeNull(com.kdmanalytics.toif.assimilator.FilePathTreeTest)  Time elapsed: 0.005 sec
+getPartialBestPath(com.kdmanalytics.toif.assimilator.FilePathTreeTest)  Time elapsed: 0.006 sec
+testFilePathTree(com.kdmanalytics.toif.assimilator.FilePathTreeTest)  Time elapsed: 0.004 sec
+testNodeEqualsFail(com.kdmanalytics.toif.assimilator.FilePathTreeTest)  Time elapsed: 0.003 sec
+testNodeEqualsPass(com.kdmanalytics.toif.assimilator.FilePathTreeTest)  Time elapsed: 0.003 sec
+Running com.kdmanalytics.toif.assimilator.KdmXmiIdHandlerTest
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.179 sec - in com.kdmanalytics.toif.assimilator.KdmXmiIdHandlerTest
+actionElementsMaxIdTest(com.kdmanalytics.toif.assimilator.KdmXmiIdHandlerTest)  Time elapsed: 0.113 sec
+overlapMaxIdTest(com.kdmanalytics.toif.assimilator.KdmXmiIdHandlerTest)  Time elapsed: 0.059 sec
+simpleMaxIdTest(com.kdmanalytics.toif.assimilator.KdmXmiIdHandlerTest)  Time elapsed: 0.003 sec
+Running com.kdmanalytics.toif.assimilator.KdmXmlHandlerTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.093 sec - in com.kdmanalytics.toif.assimilator.KdmXmlHandlerTest
+simpleParse(com.kdmanalytics.toif.assimilator.KdmXmlHandlerTest)  Time elapsed: 0.013 sec
+overlapId(com.kdmanalytics.toif.assimilator.KdmXmlHandlerTest)  Time elapsed: 0.018 sec
+actionElementParse(com.kdmanalytics.toif.assimilator.KdmXmlHandlerTest)  Time elapsed: 0.013 sec
+overlapIdInvalidMaxId(com.kdmanalytics.toif.assimilator.KdmXmlHandlerTest)  Time elapsed: 0.047 sec
+
+Results :
+
+Tests run: 33, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] All tests passed!
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Features Module 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Feature 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ com.kdmanalytics.toif.complete.feature ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.complete.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.complete.feature ---
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.complete.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-feature (default-package-feature) @ com.kdmanalytics.toif.complete.feature ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.complete.feature\target\com.kdmanalytics.toif.complete.feature-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.complete.feature ---
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:feature-p2-metadata (default-feature-p2-metadata) @ com.kdmanalytics.toif.complete.feature ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Core Feature 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ com.kdmanalytics.toif.core.feature ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.core.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.core.feature ---
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.core.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-feature (default-package-feature) @ com.kdmanalytics.toif.core.feature ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.core.feature\target\com.kdmanalytics.toif.core.feature-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.core.feature ---
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:feature-p2-metadata (default-feature-p2-metadata) @ com.kdmanalytics.toif.core.feature ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF 3rd Party Feature 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ com.kdmanalytics.toif.3rdparty.feature ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.3rdparty.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.3rdparty.feature ---
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.3rdparty.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-feature (default-package-feature) @ com.kdmanalytics.toif.3rdparty.feature ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.3rdparty.feature\target\com.kdmanalytics.toif.3rdparty.feature-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.3rdparty.feature ---
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:feature-p2-metadata (default-feature-p2-metadata) @ com.kdmanalytics.toif.3rdparty.feature ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Importer Feature 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ com.kdmanalytics.toif.importer.feature ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.importer.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.importer.feature ---
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.importer.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-feature (default-package-feature) @ com.kdmanalytics.toif.importer.feature ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.importer.feature\target\com.kdmanalytics.toif.importer.feature-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.importer.feature ---
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:feature-p2-metadata (default-feature-p2-metadata) @ com.kdmanalytics.toif.importer.feature ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Report Feature 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ com.kdmanalytics.toif.report.feature ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.report.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.report.feature ---
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.report.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-feature (default-package-feature) @ com.kdmanalytics.toif.report.feature ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.report.feature\target\com.kdmanalytics.toif.report.feature-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.report.feature ---
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:feature-p2-metadata (default-feature-p2-metadata) @ com.kdmanalytics.toif.report.feature ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF CLI Feature 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ com.kdmanalytics.toif.cmd.feature ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.cmd.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.cmd.feature ---
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.cmd.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-feature (default-package-feature) @ com.kdmanalytics.toif.cmd.feature ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.cmd.feature\target\com.kdmanalytics.toif.cmd.feature-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.cmd.feature ---
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:feature-p2-metadata (default-feature-p2-metadata) @ com.kdmanalytics.toif.cmd.feature ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Feature 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ com.kdmanalytics.toif.feature ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.feature ---
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-feature (default-package-feature) @ com.kdmanalytics.toif.feature ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.feature\target\com.kdmanalytics.toif.feature-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.feature ---
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:feature-p2-metadata (default-feature-p2-metadata) @ com.kdmanalytics.toif.feature ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF CLI Feature 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ com.kdmanalytics.toif.convert.feature ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-id (default-validate-id) @ com.kdmanalytics.toif.convert.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:validate-version (default-validate-version) @ com.kdmanalytics.toif.convert.feature ---
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.convert.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:package-feature (default-package-feature) @ com.kdmanalytics.toif.convert.feature ---
+[INFO] Building jar: C:\GSOC Research\Github\toif\features\com.kdmanalytics.toif.convert.feature\target\com.kdmanalytics.toif.convert.feature-2.3.1.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:p2-metadata-default (default-p2-metadata-default) @ com.kdmanalytics.toif.convert.feature ---
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.24.0:feature-p2-metadata (default-feature-p2-metadata) @ com.kdmanalytics.toif.convert.feature ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Sites Module 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF CLI Product 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ com.kdmanalytics.toif.rcp ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean-1) @ com.kdmanalytics.toif.rcp ---
+[INFO] Deleting C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.product\target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.rcp ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.product\src\main\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.rcp ---
+[INFO] 
+[INFO] --- tycho-p2-publisher-plugin:0.24.0:publish-products (default-publish-products) @ com.kdmanalytics.toif.rcp ---
+[INFO] publishing result: [The bundles specified in the product definition are ignored; verify the value of the 'type' or 'useFeatures' attribute.]
+[INFO] 
+[INFO] --- tycho-p2-publisher-plugin:0.24.0:publish-categories (default-publish-categories) @ com.kdmanalytics.toif.rcp ---
+[INFO] 
+[INFO] --- tycho-p2-publisher-plugin:0.24.0:attach-artifacts (default-attach-artifacts) @ com.kdmanalytics.toif.rcp ---
+[INFO] 
+[INFO] --- tycho-p2-repository-plugin:0.24.0:assemble-repository (default-assemble-repository) @ com.kdmanalytics.toif.rcp ---
+[INFO] 
+[INFO] --- tycho-p2-repository-plugin:0.24.0:archive-repository (default-archive-repository) @ com.kdmanalytics.toif.rcp ---
+[INFO] Building zip: C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.product\target\com.kdmanalytics.toif.rcp-2.3.1.zip
+[INFO] 
+[INFO] --- tycho-p2-director-plugin:0.24.0:materialize-products (materialize-products) @ com.kdmanalytics.toif.rcp ---
+[INFO] Installing product com.kdmanalytics.toif for environment win32/win32/x86_64 to C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.product\target\products\com.kdmanalytics.toif\win32\win32\x86_64
+Installing com.kdmanalytics.toif 2.3.1.
+Operation completed in 14237 ms.
+[INFO] Installing product com.kdmanalytics.toif for environment linux/gtk/x86_64 to C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.product\target\products\com.kdmanalytics.toif\linux\gtk\x86_64
+Installing com.kdmanalytics.toif 2.3.1.
+Operation completed in 18960 ms.
+[INFO] 
+[INFO] --- maven-antrun-plugin:1.7:run (rename-windows-executables) @ com.kdmanalytics.toif.rcp ---
+[INFO] Executing tasks
+
+main:
+   [delete] Deleting: C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.product\target\products\com.kdmanalytics.toif\win32\win32\x86_64\toif.exe
+     [move] Moving 1 file to C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.product\target\products\com.kdmanalytics.toif\win32\win32\x86_64
+[INFO] Executed tasks
+[INFO] 
+[INFO] --- maven-assembly-plugin:2.3:single (make-assembly) @ com.kdmanalytics.toif.rcp ---
+[INFO] Reading assembly descriptor: assemblies/toif-linux-x86_64.xml
+[INFO] Reading assembly descriptor: assemblies/toif-windows-x86_64.xml
+[INFO] Building tar: C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.product\target\kdmanalytics-oss-toif-2.3.1.linux.gtk.x86_64.tar.gz
+[WARNING] Entry: toif-2.3.1/jre/lib/desktop/icons/hicolor/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png longer than 100 characters.
+[WARNING] Resulting tar file can only be processed successfully by GNU compatible tar commands
+[WARNING] Entry: toif-2.3.1/jre/lib/desktop/icons/hicolor/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png longer than 100 characters.
+[WARNING] Entry: toif-2.3.1/jre/lib/desktop/icons/HighContrast/16x16/mimetypes/gnome-mime-application-x-java-archive.png longer than 100 characters.
+[WARNING] Entry: toif-2.3.1/jre/lib/desktop/icons/HighContrast/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png longer than 100 characters.
+[WARNING] Entry: toif-2.3.1/jre/lib/desktop/icons/HighContrast/48x48/mimetypes/gnome-mime-application-x-java-archive.png longer than 100 characters.
+[WARNING] Entry: toif-2.3.1/jre/lib/desktop/icons/HighContrast/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png longer than 100 characters.
+[WARNING] Entry: toif-2.3.1/jre/lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-mime-application-x-java-archive.png longer than 100 characters.
+[WARNING] Entry: toif-2.3.1/jre/lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png longer than 100 characters.
+[WARNING] Entry: toif-2.3.1/jre/lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-mime-application-x-java-archive.png longer than 100 characters.
+[WARNING] Entry: toif-2.3.1/jre/lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png longer than 100 characters.
+[WARNING] Entry: toif-2.3.1/jre/lib/desktop/icons/LowContrast/16x16/mimetypes/gnome-mime-application-x-java-archive.png longer than 100 characters.
+[WARNING] Entry: toif-2.3.1/jre/lib/desktop/icons/LowContrast/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png longer than 100 characters.
+[WARNING] Entry: toif-2.3.1/jre/lib/desktop/icons/LowContrast/48x48/mimetypes/gnome-mime-application-x-java-archive.png longer than 100 characters.
+[WARNING] Entry: toif-2.3.1/jre/lib/desktop/icons/LowContrast/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png longer than 100 characters.
+[WARNING] Entry: toif-2.3.1/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.200.v20150204-1316/eclipse_1607.so longer than 100 characters.
+[WARNING] Entry: toif-2.3.1/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.200.v20150204-1316/launcher.gtk.linux.x86_64.properties longer than 100 characters.
+[WARNING] Entry: toif-2.3.1/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.200.v20150204-1316/META-INF/ECLIPSE_.RSA longer than 100 characters.
+[WARNING] Entry: toif-2.3.1/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.200.v20150204-1316/META-INF/ECLIPSE_.SF longer than 100 characters.
+[WARNING] Entry: toif-2.3.1/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.200.v20150204-1316/META-INF/MANIFEST.MF longer than 100 characters.
+[INFO] Building zip: C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.product\target\kdmanalytics-oss-toif-2.3.1.win32.win32.x86_64.zip
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Convert CLI Product 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ com.kdmanalytics.toif.convert.product ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean-1) @ com.kdmanalytics.toif.convert.product ---
+[INFO] Deleting C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.convert.product\target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.convert.product ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.convert.product\src\main\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.convert.product ---
+[INFO] 
+[INFO] --- tycho-p2-publisher-plugin:0.24.0:publish-products (default-publish-products) @ com.kdmanalytics.toif.convert.product ---
+[INFO] publishing result: [The bundles specified in the product definition are ignored; verify the value of the 'type' or 'useFeatures' attribute.]
+[INFO] 
+[INFO] --- tycho-p2-publisher-plugin:0.24.0:publish-categories (default-publish-categories) @ com.kdmanalytics.toif.convert.product ---
+[INFO] 
+[INFO] --- tycho-p2-publisher-plugin:0.24.0:attach-artifacts (default-attach-artifacts) @ com.kdmanalytics.toif.convert.product ---
+[INFO] 
+[INFO] --- tycho-p2-repository-plugin:0.24.0:assemble-repository (default-assemble-repository) @ com.kdmanalytics.toif.convert.product ---
+[INFO] 
+[INFO] --- tycho-p2-repository-plugin:0.24.0:archive-repository (default-archive-repository) @ com.kdmanalytics.toif.convert.product ---
+[INFO] Building zip: C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.convert.product\target\com.kdmanalytics.toif.convert.product-2.3.1.zip
+[INFO] 
+[INFO] --- tycho-p2-director-plugin:0.24.0:materialize-products (materialize-products) @ com.kdmanalytics.toif.convert.product ---
+[INFO] Installing product com.kdmanalytics.toif.convert.product for environment win32/win32/x86_64 to C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.convert.product\target\products\com.kdmanalytics.toif.convert.product\win32\win32\x86_64
+Installing com.kdmanalytics.toif.convert.product 2.3.1.
+Operation completed in 9792 ms.
+[INFO] Installing product com.kdmanalytics.toif.convert.product for environment linux/gtk/x86_64 to C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.convert.product\target\products\com.kdmanalytics.toif.convert.product\linux\gtk\x86_64
+Installing com.kdmanalytics.toif.convert.product 2.3.1.
+Operation completed in 14809 ms.
+[INFO] 
+[INFO] --- maven-antrun-plugin:1.7:run (rename-windows-executables) @ com.kdmanalytics.toif.convert.product ---
+[INFO] Executing tasks
+
+main:
+   [delete] Deleting: C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.convert.product\target\products\com.kdmanalytics.toif.convert.product\win32\win32\x86_64\tsvoutput.exe
+     [move] Moving 1 file to C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.convert.product\target\products\com.kdmanalytics.toif.convert.product\win32\win32\x86_64
+[INFO] Executed tasks
+[INFO] 
+[INFO] --- maven-assembly-plugin:2.3:single (make-assembly) @ com.kdmanalytics.toif.convert.product ---
+[INFO] Reading assembly descriptor: assemblies/convert-linux-x86_64.xml
+[INFO] Reading assembly descriptor: assemblies/convert-windows-x86_64.xml
+[INFO] Building tar: C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.convert.product\target\kdmanalytics-oss-toif-tsvoutput-2.3.1.linux.gtk.x86_64.tar.gz
+[WARNING] Entry: tsvoutput-2.3.1/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.200.v20150204-1316/META-INF/ longer than 100 characters.
+[WARNING] Resulting tar file can only be processed successfully by GNU compatible tar commands
+[WARNING] Entry: tsvoutput-2.3.1/jre/lib/desktop/icons/hicolor/16x16/mimetypes/gnome-mime-application-x-java-archive.png longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/jre/lib/desktop/icons/hicolor/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/jre/lib/desktop/icons/hicolor/48x48/mimetypes/gnome-mime-application-x-java-archive.png longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/jre/lib/desktop/icons/hicolor/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/jre/lib/desktop/icons/HighContrast/16x16/mimetypes/gnome-mime-application-x-java-archive.png longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/jre/lib/desktop/icons/HighContrast/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/jre/lib/desktop/icons/HighContrast/48x48/mimetypes/gnome-mime-application-x-java-archive.png longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/jre/lib/desktop/icons/HighContrast/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/jre/lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-mime-application-x-java-archive.png longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/jre/lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/jre/lib/desktop/icons/HighContrastInverse/16x16/mimetypes/gnome-mime-text-x-java.png longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/jre/lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-mime-application-x-java-archive.png longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/jre/lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/jre/lib/desktop/icons/HighContrastInverse/48x48/mimetypes/gnome-mime-text-x-java.png longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/jre/lib/desktop/icons/LowContrast/16x16/mimetypes/gnome-mime-application-x-java-archive.png longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/jre/lib/desktop/icons/LowContrast/16x16/mimetypes/gnome-mime-application-x-java-jnlp-file.png longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/jre/lib/desktop/icons/LowContrast/48x48/mimetypes/gnome-mime-application-x-java-archive.png longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/jre/lib/desktop/icons/LowContrast/48x48/mimetypes/gnome-mime-application-x-java-jnlp-file.png longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.200.v20150204-1316/about.html longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.200.v20150204-1316/eclipse_1607.so longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.200.v20150204-1316/launcher.gtk.linux.x86_64.properties longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.200.v20150204-1316/META-INF/ECLIPSE_.RSA longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.200.v20150204-1316/META-INF/ECLIPSE_.SF longer than 100 characters.
+[WARNING] Entry: tsvoutput-2.3.1/plugins/org.eclipse.equinox.launcher.gtk.linux.x86_64_1.1.200.v20150204-1316/META-INF/MANIFEST.MF longer than 100 characters.
+[INFO] Building zip: C:\GSOC Research\Github\toif\products\com.kdmanalytics.toif.convert.product\target\kdmanalytics-oss-toif-tsvoutput-2.3.1.win32.win32.x86_64.zip
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF Sites Module 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Open TOIF P2 Repository 2.3.1
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.24.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ com.kdmanalytics.toif.p2 ---
+[INFO] The project's OSGi version is 2.3.1
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean-1) @ com.kdmanalytics.toif.p2 ---
+[INFO] Deleting C:\GSOC Research\Github\toif\sites\com.kdmanalytics.toif.p2\target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ com.kdmanalytics.toif.p2 ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\GSOC Research\Github\toif\sites\com.kdmanalytics.toif.p2\src\main\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.24.0:target-platform (default-target-platform) @ com.kdmanalytics.toif.p2 ---
+[INFO] 
+[INFO] --- tycho-p2-publisher-plugin:0.24.0:publish-products (default-publish-products) @ com.kdmanalytics.toif.p2 ---
+[INFO] 
+[INFO] --- tycho-p2-publisher-plugin:0.24.0:publish-categories (default-publish-categories) @ com.kdmanalytics.toif.p2 ---
+[INFO] 
+[INFO] --- tycho-p2-publisher-plugin:0.24.0:attach-artifacts (default-attach-artifacts) @ com.kdmanalytics.toif.p2 ---
+[INFO] 
+[INFO] --- tycho-p2-repository-plugin:0.24.0:assemble-repository (default-assemble-repository) @ com.kdmanalytics.toif.p2 ---
+[INFO] 
+[INFO] --- tycho-p2-repository-plugin:0.24.0:archive-repository (default-archive-repository) @ com.kdmanalytics.toif.p2 ---
+[INFO] Building zip: C:\GSOC Research\Github\toif\sites\com.kdmanalytics.toif.p2\target\com.kdmanalytics.toif.p2-2.3.1.zip
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO] 
+[INFO] Open TOIF (Tool Output Integration Framework) ...... SUCCESS [  0.002 s]
+[INFO] Open TOIF 3rd Party Module ......................... SUCCESS [  0.000 s]
+[INFO] Jsoup  Library ..................................... SUCCESS [  1.080 s]
+[INFO] Google Guava Library ............................... SUCCESS [  0.170 s]
+[INFO] Lexical Scope JewelCLI Library ..................... SUCCESS [  0.800 s]
+[INFO] JAXP XML ........................................... SUCCESS [  0.424 s]
+[INFO] Trove4J ............................................ SUCCESS [  0.148 s]
+[INFO] Apache Commons IO .................................. SUCCESS [  0.103 s]
+[INFO] Apache Commons IO .................................. SUCCESS [  0.175 s]
+[INFO] Apache Commons Lang3 Library ....................... SUCCESS [  0.226 s]
+[INFO] Apache Xerces-J Resolver ........................... SUCCESS [  0.124 s]
+[INFO] Apache Xerces-J Serilizer .......................... SUCCESS [  0.196 s]
+[INFO] Apache Xerces-J .................................... SUCCESS [  1.256 s]
+[INFO] OpenRDF Sesame Library ............................. SUCCESS [  0.251 s]
+[INFO] Objenesis .......................................... SUCCESS [  0.037 s]
+[INFO] Mockito Core Library ............................... SUCCESS [  1.345 s]
+[INFO] Open TOIF Plugins Module ........................... SUCCESS [  0.000 s]
+[INFO] Open TOIF Log4J Configuration ...................... SUCCESS [  0.050 s]
+[INFO] target ............................................. SUCCESS [  0.080 s]
+[INFO] Open TOIF Common UI ................................ SUCCESS [  0.144 s]
+[INFO] Open TOIF API ...................................... SUCCESS [  0.058 s]
+[INFO] Open TOIF Ccr ...................................... SUCCESS [  0.116 s]
+[INFO] Open TOIF Adaptor Framework ........................ SUCCESS [  0.414 s]
+[INFO] Open TOIF UI ....................................... SUCCESS [  0.192 s]
+[INFO] Open TOIF KDM Repository Merger .................... SUCCESS [  0.125 s]
+[INFO] Open TOIF Assimilator .............................. SUCCESS [  0.138 s]
+[INFO] Open TOIF Facade ................................... SUCCESS [  0.113 s]
+[INFO] Open TOIF Adaptor - Splint ......................... SUCCESS [  0.119 s]
+[INFO] Open TOIF Adaptor - Cppcheck ....................... SUCCESS [  0.081 s]
+[INFO] Open TOIF Adaptor - Rats ........................... SUCCESS [  0.063 s]
+[INFO] Open TOIF Adaptor - Jlint .......................... SUCCESS [  0.064 s]
+[INFO] Open TOIF Adaptor - Findbugs ....................... SUCCESS [  0.084 s]
+[INFO] Open TOIF Adaptor - SonarQube ...................... SUCCESS [  0.082 s]
+[INFO] Open TOIF KDM File Importer ........................ SUCCESS [  0.231 s]
+[INFO] Open TOIF RCP App .................................. SUCCESS [  0.104 s]
+[INFO] Open TOIF RCP App .................................. SUCCESS [  0.083 s]
+[INFO] Open TOIF Tests Module ............................. SUCCESS [  0.000 s]
+[INFO] TOIF Assimilator Tests ............................. SUCCESS [ 34.402 s]
+[INFO] Open TOIF Features Module .......................... SUCCESS [  0.000 s]
+[INFO] Open TOIF Feature .................................. SUCCESS [  0.221 s]
+[INFO] Open TOIF Core Feature ............................. SUCCESS [  0.086 s]
+[INFO] Open TOIF 3rd Party Feature ........................ SUCCESS [  0.245 s]
+[INFO] Open TOIF Importer Feature ......................... SUCCESS [  0.044 s]
+[INFO] Open TOIF Report Feature ........................... SUCCESS [  0.083 s]
+[INFO] Open TOIF CLI Feature .............................. SUCCESS [ 15.363 s]
+[INFO] Open TOIF Feature .................................. SUCCESS [  0.094 s]
+[INFO] Open TOIF CLI Feature .............................. SUCCESS [ 17.153 s]
+[INFO] Open TOIF Sites Module ............................. SUCCESS [  0.001 s]
+[INFO] Open TOIF CLI Product .............................. SUCCESS [01:16 min]
+[INFO] Open TOIF Convert CLI Product ...................... SUCCESS [01:08 min]
+[INFO] Open TOIF Sites Module ............................. SUCCESS [  0.001 s]
+[INFO] Open TOIF P2 Repository ............................ SUCCESS [  2.906 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 04:08 min
+[INFO] Finished at: 2016-12-07T03:22:30-06:00
+[INFO] Final Memory: 100M/548M
+[INFO] ------------------------------------------------------------------------
